@@ -32,7 +32,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6">
-                  <img src="images/People.png" class="img-fluid" width="500px" style="margin-top: -70px;">
+                  <img src="img/People.png" class="img-fluid" width="500px" style="margin-top: -70px;">
                 </div>
             </div>
         </div>

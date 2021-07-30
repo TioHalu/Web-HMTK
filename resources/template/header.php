@@ -1,6 +1,6 @@
   <nav class="navbar navbar-expand-lg bg  fixed-top tambahan-ku" id="mainNav">
       <div class="container-fluid" style="margin-right: 3%; margin-left: 3%;">
-          <a class="navbar-brand js-scroll-trigger page-scroll" href="#"><img src="images/Logo-TK-outline.png" width="70px"></a>
+          <a class="navbar-brand js-scroll-trigger page-scroll" href="#"><img src="img/Logo-TK-outline.png" width="70px"></a>
           <button class="navbar-toggler navbar-toggler-right text-uppercase font-weight-bold animo" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
               <i class="fas fa-bars"></i>
           </button>
