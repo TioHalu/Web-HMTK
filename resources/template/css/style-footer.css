@@ -1,0 +1,46 @@
+.sosmedd{
+    padding: 20px;
+}
+.sosmedd a{
+    color: white;
+    font-size: 36px;
+    margin: 15px;
+    transition: .5s;
+}
+
+.sosmedd a:hover{
+    transform: scale(1.2);
+    color: #04ADEE;
+    
+}
+
+footer{
+    color: #fff;
+    background-color: #3DA020;
+}
+
+::-moz-selection { /* Css Untuk Browser Firefox */
+    background-color: #3DA020;
+    color: #ffffff
+}
+  
+::selection {
+    background-color: #3DA020;
+    color: #ffffff
+}
+
+::-webkit-scrollbar-track
+{
+	background-color: #F5F5F5;
+}
+
+::-webkit-scrollbar
+{
+	width: 12px;
+	background-color: #F5F5F5;
+}
+
+::-webkit-scrollbar-thumb
+{
+	background-color: #02ACEF;	
+}
