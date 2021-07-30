@@ -8,19 +8,19 @@
               <ul class="navbar-nav ml-auto customm">
                   <li class="nav-item mx-0 mx-lg-1 garis-navbar "><a class="nav-link py-3 px-0 px-lg-3 rounded" href="home.php" style="color: #fff;">Beranda</a></li>
                   
-                  <li class="nav-item mx-0 mx-lg-1 garis-navbar dropdown show "><a class="nav-link py-3 px-0 px-lg-3 rounded dropdown-toggle" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#" style="color: #fff;">Profile</a>
+                  <li class="nav-item mx-0 mx-lg-1 garis-navbar dropdown show "><a class="nav-link py-3 px-0 px-lg-3 rounded dropdown-toggle" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#" style="color: #fff;">Prof</a>
                     <div class="dropdown-menu resp" aria-labelledby="dropdownMenuLink">
                       <a class="dropdown-item resp" href="#">Tentang Kami</a>
                       <a class="dropdown-item resp" href="#">Visi & Misi</a>
                       <a class="dropdown-item resp" href="#">Dosen</a>
-                      <a class="dropdown-item resp" href="profil-bph.php">BPH</a>
+                      <a class="dropdown-item resp" href="#">BPH</a>
                     </div>
                   </li>
 
                   <li class="nav-item mx-0 mx-lg-1 garis-navbar dropdown show "><a class="nav-link py-3 px-0 px-lg-3 rounded dropdown-toggle" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#" style="color: #fff;">Akademik</a>
                     <div class="dropdown-menu resp" aria-labelledby="dropdownMenuLink">
                       <a class="dropdown-item resp" href="#">Bank Materi</a>
-                      <a class="dropdown-item resp" href="#">Silabus</a>
+                      <a class="dropdown-item resp" href="#">Organigram</a>
                     </div>
                   </li>
 
